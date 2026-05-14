@@ -1,0 +1,22 @@
+{
+  "name": "GasDrive DGT V7",
+  "short_name": "GasDrive",
+  "description": "140 Preguntas DGT 2026. Offline. Gratis",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00D9FF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "tu-icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "tu-icono-512.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
